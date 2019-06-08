@@ -32,7 +32,6 @@ npm run build
 # 效果演示
 
 - 运行效果图
-
       + 推荐页面
       
             ![注册](https://github.com/hzequn/PHP_hotel/blob/master/img/1558055109(1).jpg "注册")
