@@ -34,8 +34,7 @@ npm run build
 - 运行效果图
       + 推荐页面
       
-            ![注册](https://github.com/hzequn/PHP_hotel/blob/master/img/1558055109(1).jpg "注册")
-      ![推荐](https://github.com/hzequn/vuemusic/blob/master/img/1559971729(1).png "推荐")
+      ![推荐](https://github.com/hzequn/vuemusic/blob/master/img/1559971729(1).jpg "推荐")
       
       + 歌手列表
       
