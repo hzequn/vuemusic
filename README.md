@@ -32,29 +32,29 @@ npm run build
 # 效果演示
 
 - 运行效果图
-      + 推荐页面
+     + 推荐页面
+     
+     ![推荐](https://github.com/hzequn/vuemusic/blob/master/img/1559971729(1).jpg "推荐")
       
-      ![推荐](https://github.com/hzequn/vuemusic/blob/master/img/1559971729(1).jpg "推荐")
+     + 歌手列表
+     
+     ![歌手列表](https://github.com/hzequn/vuemusic/blob/master/img/1559973140(1).jpg "歌手列表")
       
-      + 歌手列表
+     + 排行榜
+ 
+     ![排行榜](https://github.com/hzequn/vuemusic/blob/master/img/1559973154(1).jpg "排行榜")
       
-      ![歌手列表](https://github.com/hzequn/vuemusic/blob/master/img/1559973140(1).jpg "歌手列表")
+     + 搜索
+     
+     ![搜索](https://github.com/hzequn/vuemusic/blob/master/img/1559973178(1).jpg "搜索")
       
-      + 排行榜
+     + 播放列表页面
       
-      ![排行榜](https://github.com/hzequn/vuemusic/blob/master/img/1559973154(1).jpg "排行榜")
+     ![播放列表页面](https://github.com/hzequn/vuemusic/blob/master/img/1559973197(1).jpg "播放列表页面")
       
-      + 搜索
+     + 播放页面
       
-      ![搜索](https://github.com/hzequn/vuemusic/blob/master/img/1559973178(1).jpg "搜索")
-      
-      + 播放列表页面
-      
-      ![播放列表页面](https://github.com/hzequn/vuemusic/blob/master/img/1559973197(1).jpg "播放列表页面")
-      
-      + 播放页面
-      
-      ![播放页面](https://github.com/hzequn/vuemusic/blob/master/img/1559975034(1).jpg "播放页面")
+     ![播放页面](https://github.com/hzequn/vuemusic/blob/master/img/1559975034(1).jpg "播放页面")
 
 ## 路由配置
 ```js
